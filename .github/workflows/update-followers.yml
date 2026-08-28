@@ -1,0 +1,35 @@
+# Save this file as: .github/workflows/update-followers.yml
+# (inside your repo, in a folder literally named ".github/workflows")
+
+name: Update Spotify Followers
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # daily at 06:00 UTC — change as you like
+  workflow_dispatch: {}    # lets you trigger it manually from the Actions tab
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Fetch follower counts
+        run: node update-followers.js
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+
+      - name: Commit updated data
+        run: |
+          git config user.name "kapx7-bot"
+          git config user.email "bot@kapx7.com"
+          git add followers.json
+          git diff --cached --quiet || git commit -m "Update Spotify follower counts"
+          git push
