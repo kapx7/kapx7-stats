@@ -1,39 +1,39 @@
 {
   "estimated_listeners": 2120,
-  "total_followers": 36986,
-  "own_followers": 25896,
-  "partner_followers": 11090,
+  "total_followers": 37043,
+  "own_followers": 25929,
+  "partner_followers": 11114,
   "playlist_count": 6,
   "playlists": [
     {
       "id": "2IKqGFIf9ZmmvGo28VnaUu",
       "name": "INDIE INJECTION",
       "group": "own",
-      "followers": 12010
+      "followers": 12025
     },
     {
       "id": "3LCIojD65vtzpQ9hfzjQjP",
       "name": "RAP REIGN",
       "group": "own",
-      "followers": 9237
+      "followers": 9251
     },
     {
       "id": "7L7mvbDZ5jffsXxZFCJNK1",
       "name": "FOCUS STATE",
       "group": "own",
-      "followers": 4649
+      "followers": 4653
     },
     {
       "id": "3XY5G4aKMF3P6Hgdre9oi1",
       "name": "echo indie",
       "group": "partner",
-      "followers": 6207
+      "followers": 6214
     },
     {
       "id": "63CMbhT009coXMekfIesra",
       "name": "echo rap",
       "group": "partner",
-      "followers": 3236
+      "followers": 3253
     },
     {
       "id": "1yl9U3a2ZhASwKgGrZoWmC",
@@ -42,5 +42,5 @@
       "followers": 1647
     }
   ],
-  "updated_at": "2026-09-13T06:14:19.343Z"
+  "updated_at": "2026-09-14T06:11:42.122Z"
 }
