@@ -1,46 +1,46 @@
 {
   "estimated_listeners": 2120,
-  "total_followers": 37291,
-  "own_followers": 26053,
-  "partner_followers": 11238,
+  "total_followers": 37375,
+  "own_followers": 26091,
+  "partner_followers": 11284,
   "playlist_count": 6,
   "playlists": [
     {
       "id": "2IKqGFIf9ZmmvGo28VnaUu",
       "name": "INDIE INJECTION",
       "group": "own",
-      "followers": 12071
+      "followers": 12095
     },
     {
       "id": "3LCIojD65vtzpQ9hfzjQjP",
       "name": "RAP REIGN",
       "group": "own",
-      "followers": 9308
+      "followers": 9319
     },
     {
       "id": "7L7mvbDZ5jffsXxZFCJNK1",
       "name": "FOCUS STATE",
       "group": "own",
-      "followers": 4674
+      "followers": 4677
     },
     {
       "id": "3XY5G4aKMF3P6Hgdre9oi1",
       "name": "echo indie",
       "group": "partner",
-      "followers": 6240
+      "followers": 6248
     },
     {
       "id": "63CMbhT009coXMekfIesra",
       "name": "echo rap",
       "group": "partner",
-      "followers": 3302
+      "followers": 3322
     },
     {
       "id": "1yl9U3a2ZhASwKgGrZoWmC",
       "name": "Half Awake",
       "group": "partner",
-      "followers": 1696
+      "followers": 1714
     }
   ],
-  "updated_at": "2026-09-18T06:10:09.729Z"
+  "updated_at": "2026-09-19T06:09:38.216Z"
 }
