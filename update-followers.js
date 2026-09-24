@@ -9,6 +9,7 @@ const PLAYLISTS = [
   { id: "3XY5G4aKMF3P6Hgdre9oi1", name: "Echo Indie", group: "partner" },
   { id: "63CMbhT009coXMekfIesra", name: "Echo Rap", group: "partner" },
   { id: "1yl9U3a2ZhASwKgGrZoWmC", name: "Half Awake", group: "partner" },
+  { id: "0bcJP0N7RUHD9XwfQHu4fD", name: "Love in Low Light", group: "partner" },
 ];
 
 const fs = require("fs");
