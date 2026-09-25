@@ -1,52 +1,52 @@
 {
   "estimated_listeners": 2120,
-  "total_followers": 38685,
-  "own_followers": 26245,
-  "partner_followers": 12440,
+  "total_followers": 38758,
+  "own_followers": 26282,
+  "partner_followers": 12476,
   "playlist_count": 7,
   "playlists": [
     {
       "id": "2IKqGFIf9ZmmvGo28VnaUu",
       "name": "INDIE INJECTION",
       "group": "own",
-      "followers": 12161
+      "followers": 12177
     },
     {
       "id": "3LCIojD65vtzpQ9hfzjQjP",
       "name": "RAP REIGN",
       "group": "own",
-      "followers": 9373
+      "followers": 9391
     },
     {
       "id": "7L7mvbDZ5jffsXxZFCJNK1",
       "name": "FOCUS STATE",
       "group": "own",
-      "followers": 4711
+      "followers": 4714
     },
     {
       "id": "3XY5G4aKMF3P6Hgdre9oi1",
       "name": "echo indie",
       "group": "partner",
-      "followers": 6273
+      "followers": 6286
     },
     {
       "id": "63CMbhT009coXMekfIesra",
       "name": "echo rap",
       "group": "partner",
-      "followers": 3400
+      "followers": 3411
     },
     {
       "id": "1yl9U3a2ZhASwKgGrZoWmC",
       "name": "Half Awake",
       "group": "partner",
-      "followers": 1754
+      "followers": 1756
     },
     {
       "id": "0bcJP0N7RUHD9XwfQHu4fD",
       "name": "Love in Low Light",
       "group": "partner",
-      "followers": 1013
+      "followers": 1023
     }
   ],
-  "updated_at": "2026-09-24T08:09:46.855Z"
+  "updated_at": "2026-09-25T06:10:20.574Z"
 }
