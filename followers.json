@@ -1,15 +1,15 @@
 {
   "estimated_listeners": 2120,
-  "total_followers": 39273,
-  "own_followers": 26485,
-  "partner_followers": 12788,
+  "total_followers": 39334,
+  "own_followers": 26503,
+  "partner_followers": 12831,
   "playlist_count": 7,
   "playlists": [
     {
       "id": "2IKqGFIf9ZmmvGo28VnaUu",
       "name": "INDIE INJECTION",
       "group": "own",
-      "followers": 12316
+      "followers": 12328
     },
     {
       "id": "3LCIojD65vtzpQ9hfzjQjP",
@@ -21,13 +21,13 @@
       "id": "7L7mvbDZ5jffsXxZFCJNK1",
       "name": "FOCUS STATE",
       "group": "own",
-      "followers": 4789
+      "followers": 4795
     },
     {
       "id": "3XY5G4aKMF3P6Hgdre9oi1",
       "name": "echo indie",
       "group": "partner",
-      "followers": 6346
+      "followers": 6372
     },
     {
       "id": "63CMbhT009coXMekfIesra",
@@ -39,7 +39,7 @@
       "id": "1yl9U3a2ZhASwKgGrZoWmC",
       "name": "Half Awake",
       "group": "partner",
-      "followers": 1979
+      "followers": 1996
     },
     {
       "id": "0bcJP0N7RUHD9XwfQHu4fD",
@@ -48,5 +48,5 @@
       "followers": 1046
     }
   ],
-  "updated_at": "2026-10-13T13:26:48.305Z"
+  "updated_at": "2026-10-14T11:04:34.851Z"
 }
