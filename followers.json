@@ -1,21 +1,21 @@
 {
   "estimated_listeners": 2120,
-  "total_followers": 42830,
-  "own_followers": 27793,
-  "partner_followers": 15037,
-  "playlist_count": 7,
+  "total_followers": 46102,
+  "own_followers": 27817,
+  "partner_followers": 18285,
+  "playlist_count": 9,
   "playlists": [
     {
       "id": "2IKqGFIf9ZmmvGo28VnaUu",
       "name": "INDIE INJECTION",
       "group": "own",
-      "followers": 13054
+      "followers": 13071
     },
     {
       "id": "3LCIojD65vtzpQ9hfzjQjP",
       "name": "RAP REIGN",
       "group": "own",
-      "followers": 9661
+      "followers": 9668
     },
     {
       "id": "7L7mvbDZ5jffsXxZFCJNK1",
@@ -27,26 +27,38 @@
       "id": "3XY5G4aKMF3P6Hgdre9oi1",
       "name": "echo indie",
       "group": "partner",
-      "followers": 7033
+      "followers": 7045
     },
     {
       "id": "63CMbhT009coXMekfIesra",
       "name": "echo rap",
       "group": "partner",
-      "followers": 3766
+      "followers": 3778
     },
     {
       "id": "1yl9U3a2ZhASwKgGrZoWmC",
       "name": "Half Awake",
       "group": "partner",
-      "followers": 2676
+      "followers": 2682
     },
     {
       "id": "0bcJP0N7RUHD9XwfQHu4fD",
       "name": "Love in Low Light",
       "group": "partner",
-      "followers": 1562
+      "followers": 1575
+    },
+    {
+      "id": "1nlVRSqcMbNFiYOQRWczAE",
+      "name": "last message",
+      "group": "partner",
+      "followers": 1316
+    },
+    {
+      "id": "1fD7rryBMAX3Q0K4Kn0EIR",
+      "name": "Alt Rock Sunset",
+      "group": "partner",
+      "followers": 1889
     }
   ],
-  "updated_at": "2026-11-22T13:57:45.538Z"
+  "updated_at": "2026-11-23T08:15:40.604Z"
 }
