@@ -10,6 +10,8 @@ const PLAYLISTS = [
   { id: "63CMbhT009coXMekfIesra", name: "Echo Rap", group: "partner" },
   { id: "1yl9U3a2ZhASwKgGrZoWmC", name: "Half Awake", group: "partner" },
   { id: "0bcJP0N7RUHD9XwfQHu4fD", name: "Love in Low Light", group: "partner" },
+  { id: "1nlVRSqcMbNFiYOQRWczAE", name: "last message", group: "partner" },
+  { id: "1fD7rryBMAX3Q0K4Kn0EIR", name: "Alt Rock Sunset", group: "partner" },
 ];
 
 const fs = require("fs");
